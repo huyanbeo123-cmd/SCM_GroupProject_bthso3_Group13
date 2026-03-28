@@ -1,3 +1,5 @@
+package com.mycompany.groupproject_group13;
+
 import java.util.*;
 public class Ex3_CountOccurrencesArray {
     public static void main(String[] args){
@@ -17,6 +19,7 @@ public class Ex3_CountOccurrencesArray {
                 count++;
         }
         System.out.println("The number " + x + " appears " + count +  " times.");
+        System.out.println("Finished!");
 
     }
 }
