@@ -18,8 +18,9 @@ public class Ex5_FilterEvenNumbers_ArrayToArrayList {
             if(arr[i]%2==0)
                 even_number.add(arr[i]);
         }
-
+        
         System.out.print("ArrayList containing ");
         System.out.println(even_number);
+        System.out.println("Sửa xong lỗi");
     }
 }
