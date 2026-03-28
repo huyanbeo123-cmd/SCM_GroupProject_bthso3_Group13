@@ -6,7 +6,7 @@ public class Ex2_ReverseAnArray_Array {
         System.out.println("How many numbers do you want?");
         int length= Integer.parseInt(scanner.nextLine());
         float numbers[]= new float[length];
-        System.out.println("Input your array: ");
+        System.out.println("Enter input your array: ");
         for(int i=length-1;i>=0;i--){
             numbers[i]=Float.parseFloat(scanner.nextLine());
         }
