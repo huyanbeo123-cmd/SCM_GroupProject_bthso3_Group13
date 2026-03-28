@@ -19,7 +19,7 @@ public class Ex3_CountOccurrencesArray {
                 count++;
         }
         System.out.println("The number " + x + " appears " + count +  " times.");
-        System.out.println("Finished!");
+        System.out.println("Finished2!");
 
     }
 }
