@@ -17,6 +17,7 @@ public class Ex2_ReverseAnArray_Array {
                 System.out.print(", ");
         }
         System.out.print("]");
-
+        System.out.println("Hoan thanh xong.");
     }
+    
 }
