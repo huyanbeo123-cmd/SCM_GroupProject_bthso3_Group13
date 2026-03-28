@@ -6,7 +6,7 @@ public class Ex4_To_DoListManagementArrayList {
         int choice;
         System.out.println("--- CHUONG TRINH QUAN LY CONG VIEC ---");
         do {
-            System.out.println("\nChon mot con so tu 1 den 3 (Bam 0 de thoat):");
+            System.out.println("Chon mot con so tu 1 den 3 (Bam 0 de thoat):");
             System.out.println("1. Them cong viec moi.");
             System.out.println("2. Xem tat ca cong viec.");
             System.out.println("3. Xoa mot cong viec theo vi tri (index).");
