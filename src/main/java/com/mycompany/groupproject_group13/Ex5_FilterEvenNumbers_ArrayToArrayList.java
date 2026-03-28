@@ -21,6 +21,7 @@ public class Ex5_FilterEvenNumbers_ArrayToArrayList {
         
         System.out.print("ArrayList containing ");
         System.out.println(even_number);
+        System.out.println("Da chinh qua het tieng anh");
         System.out.println("Sửa xong lỗi");
     }
 }
