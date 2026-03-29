@@ -3,7 +3,7 @@ import java.util.*;
 public class Ex1_FindTheMaximumAndMinimumValue_Array {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Ban muon nhap bao nhieu so ?");
+        System.out.println("Ban muon nhap bao nhieu so?");
         int length = Integer.parseInt(scanner.nextLine());
         System.out.println("Nhap cac phan tu cua mang: ");
         float number[] = new float[length];
