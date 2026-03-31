@@ -17,6 +17,6 @@ public class Ex3_CountOccurrencesArray {
                 count++;
         }
         System.out.println("The number " + x + " appears " + count +  " times.");
-
+        //Khong can sua
     }
 }
